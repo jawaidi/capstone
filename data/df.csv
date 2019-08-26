@@ -1,0 +1,19 @@
+posted,miles,origin,dest,weight,shipper,time
+10:06,"1,440","Los Angeles,CA","Dallas,TX","25,000","Total Quality Logistics Inc, Milford, OH",70
+11:04,"1,423","City Of Indus,CA","Dallas,TX","43,900","Fremont Contract Carriers, Fremont, NE",80
+11:08,"1,357","Vista,CA","Ft Worth,TX","25,000","Landstar Ranger Inc, San Antonio, TX",90
+11:09,"1,462","Shafter,CA","Grand Prairie,TX","45,000","Uber Freight Llc, Chicago, IL",110
+11:33,"1,380","San Diego,CA","Allen,TX",—,"CH Robinson Company, Overland Park, KS",120
+11:35,"1,406","City Of Indus,CA","Roanoke,TX","10,000","Arnold Transportation Services Inc, Grand Prairie, TX",130
+11:48,"1,362","San Diego,CA","Dallas,TX","14,000","Tristar Transit Inc, Sylmar, CA",140
+13:39,"1,419","Vernon,CA","Hurst,TX","20,000","All State Association Inc, San Fernando, CA",150
+13:41,"1,435","Santa Fe Spgs,CA","Dallas,TX","16,000","Total Quality Logistics Inc, Milford, OH",60
+13:45,"1,428","Buena Park,CA","Dallas,TX","9,200","Sure Shot Logistics, Huntington Woods, MI",130
+14:01,"1,438","Carson,CA","Irving,TX","30,000","Landstar Ranger Inc, Tampa, FL",70
+14:04,"1,423","City Of Indus,CA","Dallas,TX","41,800","R2 Logistics Inc, Dallas, TX",120
+14:09,"1,417","Fullerton,CA","Coppell,TX","40,000","Veritiv Operating Company, Norcross, GA",74
+14:10,"1,328","San Diego,CA","Ft Worth,TX","45,000","Coyote Logistics Llc, Alpharetta, GA",78
+14:17,"1,364","Mira Loma,CA","Ft Worth,TX","42,100","Arcbest Dedicated/Logistics & Distribution, Sparks, NV",130
+15:51,"1,316","Vernon,CA","Humble,TX","40,000","Allen Lund Company, La Canada, CA",40
+16:00,"1,382","Moreno Valley,CA","Dallas,TX","40,000","Western Express Inc, Nashville, TN",30
+17:51,"1,423","City of Indus,CA","Dallas,TX","26,000","Freight Runner Inc, Chino, CA",40
